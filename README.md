@@ -23,7 +23,7 @@ Hi, I am 𝑴𝒂𝒉𝒃𝒖𝒃 𝑯𝒂𝒔𝒂𝒏 𝑨𝒑𝒖, a passionat
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apu-eee-sec&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=apu-eee-sec&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=apu-eee-sec&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=apu-eee-sec&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
