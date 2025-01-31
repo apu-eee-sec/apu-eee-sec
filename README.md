@@ -6,7 +6,7 @@ Hi, I am 𝑴𝒂𝒉𝒃𝒖𝒃 𝑯𝒂𝒔𝒂𝒏 𝑨𝒑𝒖, a passionat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahbub-hasan-apu-698b71347) 
 [![Portfolio](https://img.shields.io/badge/%F0%9F%94%97-Portfolio-%2300C4CC.svg?logo=Portfolio&logoColor=white)](https://apu-eee-sec.netlify.app) 
 [![Research Gate](https://img.shields.io/badge/Research%20Gate-white?logo=ResearchGate&logoColor=black)](https://www.researchgate.net/profile/Mahbub-Hasan-Apu) 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-white?color=1f1f18&logo=google-scholar&style=flat-square)](https://www.researchgate.net/profile/Mahbub-Hasan-Apu) 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-white?color=white&logo=google-scholar&style=flat-square)](https://www.researchgate.net/profile/Mahbub-Hasan-Apu) 
 
 
 
