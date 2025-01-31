@@ -4,8 +4,8 @@ Hi, I am 𝑴𝒂𝒉𝒃𝒖𝒃 𝑯𝒂𝒔𝒂𝒏 𝑨𝒑𝒖, a passionat
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahbub-hasan-apu-698b71347) 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%94%97-Portfolio-blue.svg?logo=Portfolio&logoColor=white)](https://apu-eee-sec.netlify.app) 
-[![Research Gate](https://img.shields.io/badge/Research%Gate-white?logo=Researchgate&logoColor=black)](https://www.researchgate.net/profile/Mahbub-Hasan-Apu) 
+[![Portfolio](https://img.shields.io/badge/%F0%9F%94%97-Portfolio-rgba(41,47,59,255).svg?logo=Portfolio&logoColor=white)](https://apu-eee-sec.netlify.app) 
+[![Research Gate](https://img.shields.io/badge/Research%20Gate-white?logo=ResearchGate&logoColor=black)](https://www.researchgate.net/profile/Mahbub-Hasan-Apu) 
 
 
 
