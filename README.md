@@ -7,6 +7,7 @@ Hi, I am 𝑴𝒂𝒉𝒃𝒖𝒃 𝑯𝒂𝒔𝒂𝒏 𝑨𝒑𝒖, a passionat
 [![Portfolio](https://img.shields.io/badge/%F0%9F%94%97-Portfolio-%2300C4CC.svg?logo=Portfolio&logoColor=white)](https://apu-eee-sec.netlify.app) 
 [![Research Gate](https://img.shields.io/badge/Research%20Gate-white?logo=ResearchGate&logoColor=black)](https://www.researchgate.net/profile/Mahbub-Hasan-Apu) 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-white?color=white&logo=google-scholar&style=flat-square)](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AGd7smGiwXUDGTzpS5UymepNa_HWBpfcwx7DLOy2xmnA7YtK76luIY555jfiKOhQLXSvlGzNZDZmfFdDuyo-ZmpPbTBW&user=p5_0dhYAAAAJ) 
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://m.youtube.com/channel/UCZ_HGKwl66cW4xdMC8s0LNA) 
 
 
 
